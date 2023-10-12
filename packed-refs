@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+3c0996505af1caf820e6e0b4c497994662e1b90d refs/remotes/origin/feat/footer-links
+ce17f734fb08c1f0c3b926d4e821e8fa281f1185 refs/remotes/origin/main
+1cf96dc0a6752cb19f224fab0b679f850227dc4c refs/remotes/origin/regex
+884ea831ed7d66e8d0786ddc94739bc3ac4933a5 refs/remotes/origin/turso
+c1349daf1214c676ddcd44e83987de0f6028161c refs/remotes/origin/update-docs

@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = https://github.com/tursodatabase/turso-docs
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[remote "Devon-Novite"]
+	url = origin
+	fetch = +refs/heads/*:refs/remotes/Devon-Novite/*
+	pushurl = main
